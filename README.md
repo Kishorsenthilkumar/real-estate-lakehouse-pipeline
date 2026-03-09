@@ -3,3 +3,7 @@ End-to-end data engineering pipeline that collects real estate listings, stores 
 
 
 <img width="1536" height="1024" alt="Real estate pipeline monitoring infographic" src="https://github.com/user-attachments/assets/54f4158d-6b7d-4357-bf60-28669ad3f0af" />
+
+
+<img width="1812" height="754" alt="image" src="https://github.com/user-attachments/assets/c95b1d1e-2cc4-43e9-b671-8bb364d0f7c4" />
+
